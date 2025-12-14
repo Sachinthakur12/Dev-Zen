@@ -24,17 +24,11 @@ Also the website has a favicon icon to enhance its UI and increase its authentic
 
 1. Install *Node.js*
 2. Install *npm*
-3. Clone this github repo `https://github.com/RaghavShiva/DevZen.git`.
-4. Open the local project directory in a terminal, and run: `npm install`.
+3. Open the local project directory in a terminal, and run: `npm install`.
 
 ## To start the application locally
 
 In the project directory, you can run: `npm start`
 
-## Need help?
-
-Feel free to contact me on
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ragshiv04) [![X](https://img.shields.io/badge/X-follow-blue.svg?logo=x&logoColor=white
-)](https://x.com/raghav_shiva04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-green.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-raghav-96b94a255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---------
